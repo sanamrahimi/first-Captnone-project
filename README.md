@@ -113,7 +113,9 @@ Sanam Rahimi
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-Implement the tickets and the schedule page
+Implement the tickets and the schedule page and
+
+
 Add transitions and/or animations
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -142,7 +144,7 @@ I would like to thank Microverse community.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](LICENSE.md) licensed. 
+This project is [MIT](https://github.com/sanamrahimi/first-Captnone-project/blob/development/LICENSE) licensed. 
 
 Original design idea by [Cindy Shin in Behance](https://www.behance.net/adagio07).
 
